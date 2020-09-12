@@ -1,12 +1,12 @@
 # seckill
 
 * 系统架构图
-![系统架构图](http://kcoewoys.maser.top/github/seckill/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![系统架构图](https://cdn.jsdelivr.net/gh/eaok/img/github/seckill/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 * 秒杀图
-![秒杀图](http://kcoewoys.maser.top/github/seckill/%E7%A7%92%E6%9D%80%E5%9B%BE.png)
+![秒杀图](https://cdn.jsdelivr.net/gh/eaok/img/github/seckill/%E7%A7%92%E6%9D%80%E5%9B%BE.png)
 
 * 秒杀脑图
-![秒杀脑图](http://kcoewoys.maser.top/github/seckill/seckill.png)
+![秒杀脑图](https://cdn.jsdelivr.net/gh/eaok/img/github/seckill/seckill.png)
 
 
 ---
